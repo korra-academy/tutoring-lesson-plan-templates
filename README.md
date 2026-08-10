@@ -11,6 +11,7 @@ Maintained by [Korra Academy](https://korra.academy/) — the team behind **[Kor
 | [`first-session-assessment.md`](templates/first-session-assessment.md) | The diagnostic first meeting: goals, baseline, learning preferences, agreed plan |
 | [`lesson-plan.md`](templates/lesson-plan.md) | Any single session: objective, warm-up, teach, practice, review, homework |
 | [`progress-report.md`](templates/progress-report.md) | Monthly/term report to the student or parents: wins, evidence, next focus |
+| [`exam-countdown-planner.md`](templates/exam-countdown-planner.md) | The final weeks before an exam: topic triage, session-by-session plan, past-paper habit |
 
 ## How to use them
 
