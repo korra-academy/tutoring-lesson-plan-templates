@@ -1,6 +1,6 @@
 # Tutoring Lesson Plan Templates (free, Markdown)
 
-Free **lesson plan, first-session assessment and progress report templates for tutors** — private tutors, online tutors and tutoring companies. Plain Markdown: copy, fill in, or convert to Google Docs/Word in seconds.
+Free **lesson plan, first-session assessment, parent summary and progress report templates for tutors** — private tutors, online tutors and tutoring companies. Plain Markdown: copy, fill in, or convert to Google Docs/Word in seconds.
 
 Maintained by [Korra Academy](https://korra.academy/) — the team behind **[Korra.Tutor](https://korra.one/)**, live 1-to-1 online tutoring and upskilling.
 
@@ -12,6 +12,7 @@ Maintained by [Korra Academy](https://korra.academy/) — the team behind **[Kor
 | [`lesson-plan.md`](templates/lesson-plan.md) | Any single session: objective, warm-up, teach, practice, review, homework |
 | [`progress-report.md`](templates/progress-report.md) | Monthly/term report to the student or parents: wins, evidence, next focus |
 | [`exam-countdown-planner.md`](templates/exam-countdown-planner.md) | The final weeks before an exam: topic triage, session-by-session plan, past-paper habit |
+| [`parent-session-summary.md`](templates/parent-session-summary.md) | The 2-minute message to parents after every session: what we did, one win, one "still tricky", homework, next date |
 
 ## How to use them
 
@@ -30,6 +31,9 @@ One objective in "student can…" form, a 5-minute warm-up retrieving last sessi
 
 **How do I structure a first tutoring session?**
 Diagnose, don't teach: goals (student's AND parent's), a low-pressure baseline task, how they've been taught before, then agree the plan and logistics. Template: [`first-session-assessment.md`](templates/first-session-assessment.md).
+
+**What should I tell parents after each tutoring session?**
+Five lines: the topic in plain words, one specific win with evidence, one "still tricky" framed as next week's focus, the homework with a due date, and the next session time. Send it within the hour. Template: [`parent-session-summary.md`](templates/parent-session-summary.md).
 
 **How often should tutors send progress reports?**
 Monthly for weekly students, or per school term. Short and evidenced beats long and vague — three wins, one focus area, one ask of the parents.
