@@ -13,6 +13,7 @@ Maintained by [Korra Academy](https://korra.academy/) — the team behind **[Kor
 | [`progress-report.md`](templates/progress-report.md) | Monthly/term report to the student or parents: wins, evidence, next focus |
 | [`exam-countdown-planner.md`](templates/exam-countdown-planner.md) | The final weeks before an exam: topic triage, session-by-session plan, past-paper habit |
 | [`parent-session-summary.md`](templates/parent-session-summary.md) | The 2-minute message to parents after every session: what we did, one win, one "still tricky", homework, next date |
+| [`topic-tracker.md`](templates/topic-tracker.md) | One sheet per student per subject: every topic on the spec, a red/amber/green confidence rating, the evidence behind it, next action |
 
 ## How to use them
 
@@ -34,6 +35,9 @@ Diagnose, don't teach: goals (student's AND parent's), a low-pressure baseline t
 
 **What should I tell parents after each tutoring session?**
 Five lines: the topic in plain words, one specific win with evidence, one "still tricky" framed as next week's focus, the homework with a due date, and the next session time. Send it within the hour. Template: [`parent-session-summary.md`](templates/parent-session-summary.md).
+
+**How do I track a tutoring student's progress across a whole course?**
+Keep one topic tracker per student per subject: every topic on the exam specification in a grid, rated red, amber or green on evidence of what the student actually did (score, unaided or not, date), with green requiring two correct unaided attempts on different days. Update it in the last minute of each session and read it in the first minute of the next; the evidence column becomes your progress report. Template: [`topic-tracker.md`](templates/topic-tracker.md).
 
 **How often should tutors send progress reports?**
 Monthly for weekly students, or per school term. Short and evidenced beats long and vague — three wins, one focus area, one ask of the parents.
